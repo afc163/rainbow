@@ -4,7 +4,7 @@ Make everywhere rainbow!
 
 ---
 
-* http://pianyou.me/rainbow/?src=https://github.com/
+* http://pianyou.me/rainbow/?src=https://www.github.com/
 
 * http://pianyou.me/rainbow/?src=http://www.taobao.com
 
@@ -14,4 +14,4 @@ Make everywhere rainbow!
 
 * http://pianyou.me/rainbow/?src=http://www.google.com
 
-* http://pianyou.me/rainbow/?src=https://alipay.com/
+* http://pianyou.me/rainbow/?src=https://www.alipay.com/
