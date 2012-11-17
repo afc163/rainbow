@@ -1,8 +1,10 @@
-Rainbow
+# Rainbow
 
-Make any sites rainbow!
+Make everywhere rainbow!
 
 ---
+
+* http://pianyou.me/rainbow/?src=https://github.com/
 
 * http://pianyou.me/rainbow/?src=http://www.taobao.com
 
@@ -11,3 +13,5 @@ Make any sites rainbow!
 * http://pianyou.me/rainbow/?src=http://baidu.com
 
 * http://pianyou.me/rainbow/?src=http://www.google.com
+
+* http://pianyou.me/rainbow/?src=https://alipay.com/
