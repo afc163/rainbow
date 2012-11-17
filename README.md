@@ -4,8 +4,6 @@ Make everywhere rainbow!
 
 ---
 
-* http://pianyou.me/rainbow/?src=https://www.github.com/
-
 * http://pianyou.me/rainbow/?src=http://www.taobao.com
 
 * http://pianyou.me/rainbow/?src=http://weibo.com
